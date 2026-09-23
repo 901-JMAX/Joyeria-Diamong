@@ -1,1 +1,26 @@
 # Joyeria-Diamong
+***
+
+## DESCRIPCION
+Aplicacion web
+
+## OBJETIVO 
+DESARROLLAR
+
+##FUNCIONALIDADES
+- [ ] CRUD CLIENTES
+- [ ] CRUD PRODUCTOS
+- [ ] CURD OFERTAS
+- [ ] CARRITO
+- [ ] PAGOS
+
+## EQUIPO DE DESARROLLO
+* DESARROLLADOR1
+* DESARROLLADOR2
+* DESARROLLADOR3
+
+## PILA TECNOLOGICA 
++ Lenguaje
++ Framework
++ BD
++ Editor 
